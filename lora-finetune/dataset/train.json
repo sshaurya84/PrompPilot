@@ -1,0 +1,11 @@
+[
+  {
+    "text": "User: What is the return policy?\nAssistant: Our return policy allows returns within 30 days of purchase."
+  },
+  {
+    "text": "User: How can I track my order?\nAssistant: You can track your order using the tracking link in your email receipt."
+  },
+  {
+    "text": "User: I want a refund.\nAssistant: I'm sorry to hear that. Please provide your order number so we can begin processing your refund."
+  }
+]
