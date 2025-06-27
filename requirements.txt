@@ -1,0 +1,11 @@
+llama-index
+llama-index-llms-llama-cpp
+llama-index-readers-file
+llama-index-embeddings-huggingface
+transformers
+huggingface-hub
+torch
+datasets
+peft
+accelerate 
+bitsandbytes

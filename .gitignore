@@ -1,2 +1,5 @@
 models/
 llm-env/
+__pycache__/
+lora-model/
+output/
