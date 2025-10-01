@@ -22,11 +22,11 @@ Prompt Pilot — RAG-Powered Local LLM Chatbot
 
 -  **Multi-Turn Chat with Memory**
   - Track and retain chat history to enable contextual, ongoing conversations.
-##  Upcoming Features
-
-
+    
 -  **LoRA Fine-Tuning**
   - Apply lightweight fine-tuning to control the assistant’s tone and behavior.
+##  Upcoming Features
+
 
 -  **Observability and Logging**
   - Log prompts, token usage, latency, and errors. Visualize with Prometheus + Grafana.
