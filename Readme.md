@@ -25,7 +25,8 @@ Prompt Pilot — RAG-Powered Local LLM Chatbot
     
 -  **LoRA Fine-Tuning**
   - Apply lightweight fine-tuning to control the assistant’s tone and behavior.
-##  Upcoming Features
+    
+##  Scope for improvements
 
 
 -  **Observability and Logging**
